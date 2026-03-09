@@ -412,7 +412,7 @@ Bu "Matrisler Evreni" yaklaşımı, veritabanı dünyasındaki **"Cellular Datab
 | --- | --- | --- |
 | **Matris Genişliği** | 2.310 | Tüm seviyeler için global sabit. |
 | **Kolon Sayısı** | 210 | Dikey hizalamayı sağlayan global sabit. |
-| **Değişken Parametre** | $P_{start}$ | Her seviye için $p^2$ (veya $P_n\char35$ ilişkili başlangıç). |
+| **Değişken Parametre** | $P_{start}$ | Her seviye için $p^2$ (veya $P_n\symbol{35}$ ilişkili başlangıç). |
 | **Adresleme Formülü** | `Pos = (Value - P_start) % 2310` | Matris içindeki yerleşimi belirleyen tek formül. |
 
 ---
